@@ -2,7 +2,7 @@
 
 /**
  * leet - This program would encode a string into 1337
- * @n: Parameter - input
+ * @n: input
  * Return: Program would return the value of n
  */
 
