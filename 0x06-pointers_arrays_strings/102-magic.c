@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-/* print_int - This program would print an integer in a new line */
-
 int main(void)
 {
 	int n;
@@ -10,7 +8,6 @@ int main(void)
 
 	a[2] = 1024;
 	p = &n;
-
 /*
  * write your line of code here...
  * Remember:
