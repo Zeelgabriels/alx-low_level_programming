@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+/* print_int - This program would print an integer in a new line */
+
 int main(void)
 {
 	int n;
